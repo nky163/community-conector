@@ -1,0 +1,22 @@
+{
+  "timeZone": "Pacific/Niue",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "OAuth2",
+      "libraryId": "1B7FSrk5Zi6L1rSxxTDgDEUsPzlukDsi4KGuTMorsTQHhGBzBkMun4iDF",
+      "version": "41",
+      "developmentMode": true
+    }]
+  },
+  "oauthScopes": [],
+  "dataStudio": {
+    "name": "TestConnector",
+    "logoUrl": "https://www.gstatic.com/images/branding/product/1x/data_connector_48dp.png",
+    "company": "nakaya",
+    "companyUrl": "https://developers.google.com/datastudio/",
+    "supportUrl": "https://developers.google.com/datastudio/",
+    "description": "Use BigQuery public dataset with Data Studio\u0027s Advanced Services.",
+    "addOnUrl": "https://developers.google.com/datastudio/",
+    "useQueryConfig": true
+  }
+}
